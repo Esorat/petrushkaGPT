@@ -1,7 +1,4 @@
-# petrushkaGPT
-
-
-# ChatGPT and Telegram Bot Integration
+# petrushkaGPT🤖
 
 This project demonstrates how to integrate ChatGPT, a language model developed by OpenAI, with a Telegram bot in a Node.js environment. The bot can accept text or voice prompts from users and generate responses using the ChatGPT model.
 
@@ -37,20 +34,33 @@ add to this json your api key for Telegram and OpenAi like this:
   "OPENAI_KEY": "bla-bla your key here"
 }
 
-4. npm i
-
-5. Start locally in your machine: npm run dev (Will start in Dev mode)
+4. 
+```bash
+npm i
+```
+5. Start locally in your machine:
+   ```bash
+   npm run dev
+   ```
+ (Will start in Dev mode)
   
 
 ## Usage
 
 To run the application, use the following command:
 
-Locally: npm run dev
+Locally: 
 
+```bash
+npm i
+```
+
+```bash
 Docker: docker build -t tgbot .
+```
+```bash
 make run
-
+```
 
 The Telegram bot will be up and running, ready to accept text or voice prompts from users.
 
