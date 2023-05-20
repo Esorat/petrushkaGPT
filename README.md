@@ -38,6 +38,8 @@ add to this json your api key for Telegram and OpenAi like this:
 }
 
 4. npm i
+
+5. Start locally in your machine: npm run dev (Will start in Dev mode)
   
 
 ## Usage
