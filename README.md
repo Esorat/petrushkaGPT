@@ -45,10 +45,12 @@ add to this json your api key for Telegram and OpenAi like this:
 ## Usage
 
 To run the application, use the following command:
+
 Locally: npm run dev
+
 Docker: docker build -t tgbot .
-Makefile: make run
-```
+make run
+
 
 The Telegram bot will be up and running, ready to accept text or voice prompts from users.
 
