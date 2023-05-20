@@ -54,9 +54,9 @@ Locally:
 ```bash
 npm i
 ```
-
+Docker:
 ```bash
-Docker: docker build -t tgbot .
+docker build -t tgbot .
 ```
 ```bash
 make run
