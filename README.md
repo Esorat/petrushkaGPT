@@ -37,7 +37,7 @@ add to this json your api key for Telegram and OpenAi like this:
    ```
 
 
-4. 
+4. Install Node js dependencies
 ```bash
 npm i
 ```
