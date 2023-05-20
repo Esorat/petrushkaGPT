@@ -29,10 +29,13 @@ Before running the project, ensure that you have the following prerequisites ins
 
 3. Configure the application by create in config folder production.json and default.json
 add to this json your api key for Telegram and OpenAi like this:
+ ```bash
 {
   "TELEGRAM_TOKEN": "bla-bla your key here",
   "OPENAI_KEY": "bla-bla your key here"
 }
+   ```
+
 
 4. 
 ```bash
